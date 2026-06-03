@@ -6,7 +6,7 @@ Author: 0xRowdy
 
 Date:
 
-YouTube Published: 2026-06-03T12:46:47Z
+YouTube Published: 2025-04-20T00:00:00Z
 
 Transcript: transcript.md
 

@@ -6,7 +6,7 @@ Author: @GoldenLady
 
 Date:
 
-YouTube Published: 2026-06-03T12:56:03Z
+YouTube Published: 2025-04-20T00:00:00Z
 
 Transcript: transcript.md
 

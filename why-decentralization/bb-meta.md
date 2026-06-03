@@ -6,7 +6,7 @@ Author: @sky
 
 Date:
 
-YouTube Published: 2026-06-03T12:52:12Z
+YouTube Published: 2025-04-20T00:00:00Z
 
 Transcript: transcript.md
 

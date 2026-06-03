@@ -6,7 +6,7 @@ Author: Spencer
 
 Date:
 
-YouTube Published: 2026-06-03T12:59:33Z
+YouTube Published: 2025-04-20T00:00:00Z
 
 Transcript: transcript.md
 

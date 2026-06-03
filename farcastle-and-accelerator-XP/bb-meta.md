@@ -6,7 +6,7 @@ Author: https://portal.raidguild.org/members/earth2travis
 
 Date:
 
-YouTube Published: 2026-06-03T12:42:26Z
+YouTube Published: 2025-04-20T00:00:00Z
 
 Transcript: transcript.md
 

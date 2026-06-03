@@ -6,7 +6,7 @@ Author: Christina, BorrowLucid; https://portal.raidguild.org/members/3036
 
 Date:
 
-YouTube Published: 2026-06-03T12:45:01Z
+YouTube Published: 2025-04-20T00:00:00Z
 
 Transcript: transcript.md
 
