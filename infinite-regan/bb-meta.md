@@ -6,6 +6,8 @@ Author: Owocki
 
 Date:
 
+YouTube Published: 2025-02-11T18:54:26Z
+
 Transcript: transcript.md
 
 ## Abstract

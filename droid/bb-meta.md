@@ -6,6 +6,8 @@ Author:
 
 Date:
 
+YouTube Published: 2026-03-16T15:41:27Z
+
 Transcript: transcript-droid.md
 
 ## Abstract

@@ -6,6 +6,8 @@ Author: https://portal.raidguild.org/members/duckanbro; https://portal.raidguild
 
 Date:
 
+YouTube Published: 2025-08-15T15:57:26Z
+
 Transcript: transcript-daily-dust.md
 
 ## Abstract

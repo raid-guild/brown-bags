@@ -6,6 +6,8 @@ Author: https://portal.raidguild.org/members/elementcomplex
 
 Date: 2026-05-06
 
+YouTube Published: 2026-03-31T22:30:29Z
+
 Transcript: transcript-bard-school.md
 
 ## Abstract

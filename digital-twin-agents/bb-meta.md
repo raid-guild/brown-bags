@@ -6,6 +6,8 @@ Author: https://portal.raidguild.org/members/jamesyoung
 
 Date:
 
+YouTube Published: 2026-03-31T22:29:31Z
+
 Transcript: transcript-dta.md
 
 ## Abstract

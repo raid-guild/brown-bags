@@ -6,6 +6,8 @@ Author: https://portal.raidguild.org/members/ecwireless
 
 Date:
 
+YouTube Published: 2026-03-31T22:29:30Z
+
 Transcript: transcript-art-of-pm.md
 
 ## Abstract

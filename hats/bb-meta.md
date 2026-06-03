@@ -6,6 +6,8 @@ Author: Spencer
 
 Date:
 
+YouTube Published: 2026-06-03T12:59:33Z
+
 Transcript: transcript.md
 
 ## Abstract

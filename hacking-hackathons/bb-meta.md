@@ -6,6 +6,8 @@ Author:
 
 Date:
 
+YouTube Published: 2026-06-03T12:33:27Z
+
 Transcript: transcript.md
 
 ## Abstract

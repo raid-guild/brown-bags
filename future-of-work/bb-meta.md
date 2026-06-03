@@ -6,6 +6,8 @@ Author: https://portal.raidguild.org/members/thekerp
 
 Date:
 
+YouTube Published: 2026-06-03T12:58:12Z
+
 Transcript: transcript.md
 
 ## Abstract

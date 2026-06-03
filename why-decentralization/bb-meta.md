@@ -6,6 +6,8 @@ Author: @sky
 
 Date:
 
+YouTube Published: 2026-06-03T12:52:12Z
+
 Transcript: transcript.md
 
 ## Abstract

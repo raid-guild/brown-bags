@@ -6,6 +6,8 @@ Author: https://portal.raidguild.org/members/jschiarizzi
 
 Date:
 
+YouTube Published: 2026-06-03T12:50:10Z
+
 Transcript: transcript.md
 
 ## Abstract

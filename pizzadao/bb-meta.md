@@ -6,6 +6,8 @@ Author: Snax
 
 Date:
 
+YouTube Published: 2026-02-11T21:41:20Z
+
 Transcript: transcript-pizadao.md
 
 ## Abstract

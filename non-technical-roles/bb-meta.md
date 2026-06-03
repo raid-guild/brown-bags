@@ -6,6 +6,8 @@ Author: sassquatch
 
 Date:
 
+YouTube Published: 2026-06-03T13:04:24Z
+
 Transcript: transcript.md
 
 ## Abstract
