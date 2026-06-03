@@ -10,6 +10,7 @@ This index is the canonical checklist for the collection. Each episode should ha
 - An author field using a RaidGuild portal link, Discord handle, or known name.
 - A `Date:` field, left blank when unknown.
 - A transcript file in the episode folder.
+- A transcript summary and notable quotes section.
 
 Note: `YouTube Published` / `Published UTC` is not guaranteed to be the original brown bag date or original upload time. For videos that were private, scheduled, or later made public, YouTube may expose the public publish time instead. For videos originally uploaded as unlisted, YouTube documentation says the value usually reflects upload time, but the public metadata may not preserve every prior visibility transition. Some legacy entries use `2025-04-20T00:00:00Z` as a placeholder past date when the actual publish/upload date is unrecoverable.
 
@@ -67,4 +68,12 @@ Transcript: transcript.md
 ## Abstract
 
 Short summary of the session.
+
+## Transcript Summary
+
+Longer summary grounded in the transcript.
+
+## Notable Quotes
+
+- "Short quote from the transcript."
 ```
